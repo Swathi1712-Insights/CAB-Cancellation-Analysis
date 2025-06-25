@@ -1,5 +1,5 @@
 # CAB-Cancellation-Analysis
-It is an CAB rides cancellation analysis using mock dataset,SQL and Tableau
+CAB rides cancellation analysis using mock dataset,SQL and Tableau
 **# Objective**
 This project is an end-to-end data analysis that examines the cancellation of cabs for different cities and user types. 
 **The aim is to** :
